@@ -1,6 +1,7 @@
-Software Development 
+Hello 
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DamianFloyd/cat/main.yml?branch=master)
+![workflow](https://github.com/DamianFloyd/cat/actions/workflows/main.yml/badge.svg)
+
 
 
 
@@ -9,4 +10,4 @@ Software Development
 [![Releases](https://img.shields.io/github/release/DamianFloyd/sem/all.svg?style=flat-square)](https://github.com/DamianFloyd/sem/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DamianFloyd/cat/main.yml?branch=develop)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/DamianFloyd/cat/main.yml?branch=develop)
